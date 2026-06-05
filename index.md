@@ -1,4 +1,3 @@
-# Insecure sites list (sorted By category)
 ## Sites that purposefully use plaintext HTTP
 * [http://HTTPForever.com/](http://HTTPForever.com/)
 * [http://HTTP.BadSSL.com/](http://HTTP.BadSSL.com/)
